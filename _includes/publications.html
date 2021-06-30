@@ -11,8 +11,8 @@
   </h2>
 
   {% if publications.conferences %}
-  <div class="item">
-    {{ publications.conferences | markdownify }}
+  <div>
+    <strong> {{ publications.conferences | markdownify }} </strong>
   </div><!--//conferences-->
   {% endif %}
 
@@ -29,8 +29,8 @@
   {% endfor %}
   
   {% if publications.journals %}
-  <div class="item">
-    {{ publications.journals | markdownify }}
+  <div>
+    <strong> {{ publications.journals | markdownify }} </strong>
   </div><!--//journals-->
   {% endif %}
 
