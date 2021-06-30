@@ -38,13 +38,13 @@ research-interests:
     title: Research Interests
     interests:
         - title: Data Mining, User Modeling, Recommender System
-          summary: Recommender system, Learning to rank, Click-through-rate prediction, Rating prediction
+          application: Recommender system, Learning to rank, Click-through-rate prediction, Rating prediction
             
         - title: Deep Learning
-          summary: Representation learning, Deep metric learning, Neural network architecture
+          application: Representation learning, Deep metric learning, Neural network architecture
           
         - title: Graph Representation Learning
-          summary: Graph neural network, Knowledge graph learning, Link prediction
+          application: Graph neural network, Knowledge graph learning, Link prediction
       
 education:
     - degree: B.S. in Computer Science and Engineering
