@@ -58,12 +58,10 @@ research-interests:
     title: Research Interests
     interests:
         - title: Recommender Systems
-          summary: |
-            good
+          summary: good
             
         - title: Deep Learning
-          summary: |
-            good good
+          summary: good good
       
 education:
 #     - degree: MSc in Computer Science
