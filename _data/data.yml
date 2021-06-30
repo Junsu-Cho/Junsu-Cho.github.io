@@ -110,12 +110,12 @@ education:
 
 publications:
     title: Publications
-#     intro: |
+    intro: |
+        Conferences
 #       You can list your publications in this section. Lorem ipsum dolor sit
 #       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #       bibendum fringilla a eu lectus.
     papers:
-        asdasd
       - title: Unsupervised Proxy Selection for Session-based Recommender Systems <a href="#">[pdf]</a> <a href="#">[code]</a>
 #         link: "#"
         authors: <b>Junsu Cho</b>, SeongKu Kang, Dongmin Hyun, Hwanjo Yu
