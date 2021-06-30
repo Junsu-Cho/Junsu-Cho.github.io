@@ -9,10 +9,26 @@
     </span>
     {{ research-interests.title }}
   </h2>
+  
+  
+  
+<!--   {% if publications.conferences %}
+  <div>
+    <font size=1.5><strong> {{ publications.conferences | markdownify }} </strong></font>
+  </div><!--//conferences-->
+  {% endif %} -->
 
+  {% for interest in research_interests.interests %}
+  <div class="item">
+    <li>{{ interest.title }}</li>
+    <div>{{ interest.summary }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+<!-- 
   <div class="summary">
     {{ research-interests.summary | markdownify }}
-  </div><!--//summary-->
+  </div><!--//summary--> -->
     
 </section><!--//section-->
 {% endif %}
