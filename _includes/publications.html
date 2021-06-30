@@ -26,10 +26,14 @@
     
     {% if publication.pdf-link and publication.code-link %}
       <div class="publication-link"> <a href="{{ publication.pdf-link }}"> [pdf] </a> <a href="{{ publication.code-link }}"> [code] </a> </div>
-    {% else if publication.pdf-link %}
-      <div class="publication-link"> <a href="{{ publication.pdf-link }}"> [pdf] </a> </div>
-    {% else if publication.code-link %}
-      <div class="publication-link"> <a href="{{ publication.code-link }}"> [code] </a> </div>
+    {% else %}
+      {% if publication.pdf-link %}
+        <div class="publication-link"> <a href="{{ publication.pdf-link }}"> [pdf] </a> </div>
+      {% else %}
+        {% if publication.code-link %}
+          <div class="publication-link"> <a href="{{ publication.code-link }}"> [code] </a> </div>
+        {% endif %}
+      {% endif %}
     {% endif %}
     
     <div class="publication-authors">{{ publication.authors }}</div>
