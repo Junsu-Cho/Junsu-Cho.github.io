@@ -115,7 +115,7 @@ publications:
 #       You can list your publications in this section. Lorem ipsum dolor sit
 #       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #       bibendum fringilla a eu lectus.
-    papers:
+    conference_papers:
       - title: Unsupervised Proxy Selection for Session-based Recommender Systems <a href="#">[pdf]</a> <a href="#">[code]</a>
 #         link: "#"
         authors: <b>Junsu Cho</b>, SeongKu Kang, Dongmin Hyun, Hwanjo Yu
@@ -143,7 +143,7 @@ publications:
        
     journals: |
         Journals
-    papers:
+    journal_papers:
       - title: Learning to Utilize Auxiliary Reviews for Recommendation
 #         link: "#"
         authors: Dongmin Hyun, Chanyoung Park, <b>Junsu Cho</b>, Hwanjo Yu
