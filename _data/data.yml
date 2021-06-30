@@ -115,33 +115,34 @@ publications:
 #       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #       bibendum fringilla a eu lectus.
     papers:
+        asdasd
       - title: Unsupervised Proxy Selection for Session-based Recommender Systems <a href="#">[pdf]</a> <a href="#">[code]</a>
 #         link: "#"
         authors: <b>Junsu Cho</b>, SeongKu Kang, Dongmin Hyun, Hwanjo Yu
         conference: ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2021 (Acceptance rate 151/720=21.0%)
 
       - title: Learning Heterogeneous Temporal Patterns of User Preference for Timely Recommendation <a href="https://arxiv.org/abs/2104.14200">[pdf]</a> <a href="#">[code]</a>
-        link: "#"
+#         link: "#"
         authors: <b>Junsu Cho</b>, Dongmin Hyun, SeongKu Kang, Hwanjo Yu
         conference: The Web Conference (WWW), 2021 (Acceptance Rate 357/1736=20.6%)
 
       - title: Interest Sustainability-Aware Recommender Systems
-        link: "#"
+#         link: "#"
         authors: Dongmin Hyun, <b>Junsu Cho</b>, Changyoung Park, Hwanjo Yu
         conference: IEEE International Conference on Data Mining (ICDM full), 2020 (Acceptance Rate 91/930=9.8%)
         
       - title: Sparse Network Inversion for Key Instance Detection in Multiple Instance
-        link: "#"
+#         link: "#"
         authors: Beomjo Shin, <b>Junsu Cho</b>, Hwanjo Yu, Seungjin Choi
         conference: International Conference on Pattern Recognition (ICPR), 2020 (Acceptance Rate 1411/3250=43.4%)
         
       - title: Building Large-Scale English and Korean Datasets for Aspect-Level Sentiment Analysis in Automotive Domain
-        link: "#"
+#         link: "#"
         authors: Dongmin Hyun, <b>Junsu Cho</b>, Hwanjo Yu
         conference: International Conference on Computational Linguistics (COLING), 2020 (Acceptance Rate 644/1956=32.9%)
        
       - title: Learning to Utilize Auxiliary Reviews for Recommendation
-        link: "#"
+#         link: "#"
         authors: Dongmin Hyun, Chanyoung Park, <b>Junsu Cho</b>, Hwanjo Yu
         conference: "Information Science, 2021.2 (IF: 5.524)"
 
