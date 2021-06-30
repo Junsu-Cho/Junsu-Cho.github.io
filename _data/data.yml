@@ -164,7 +164,7 @@ publications:
 #       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #       bibendum fringilla a eu lectus.
     papers:
-      - title: Unsupervised Proxy Selection for Session-based Recommender Systems <a href="http://google.com">[code]</a>
+      - title: Unsupervised Proxy Selection for Session-based Recommender Systems <a href="#">[pdf]</a> <a href="#">[code]</a>
 #         link: "#"
         authors: <b>Junsu Cho</b>, SeongKu Kang, Dongmin Hyun, Hwanjo Yu
         conference: ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2021 (Acceptance rate 151/720=21.0%)
