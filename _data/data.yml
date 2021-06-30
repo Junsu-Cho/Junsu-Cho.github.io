@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Junsu Cho
-    tagline: Ph.D. Student, <br/>Computer Science, POSTECH
+    tagline: Ph.D. Student, <br/>Computer Science, POSTECH, <br/>South Korea
     avatar: profile_ori.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -49,7 +49,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am Junsu Cho, a Ph.D. student in Data Intelligence Lab. advised by Prof. Hwanjo Yu, Department of Computer Science and Engineering, Pohang University of Science and Technology (POSTECH).
+      I am Junsu Cho, a Ph.D. student in Data Intelligence Lab. advised by Prof. Hwanjo Yu, Department of Computer Science and Engineering, Pohang University of Science and Technology (POSTECH), South Korea.
       My research is focused on data mining, especially recommender systems. I am most interested in finind and solving problems that may exist when a recommender system is used in the real world.
       
 education:
