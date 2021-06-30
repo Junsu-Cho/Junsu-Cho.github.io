@@ -103,9 +103,25 @@ publications:
         journal: "<b>Information Science</b>, 2021.2 (IF: 5.524)"
 
 awards:
-    - title: Good
-      time: Winter 2015
+    - title: 3rd Prize, Kakao Melon Playlist Continuation Competition
+      time: 2020
+      where: Melon, Kakao
+    
+    - title: Gold Prize (the 1st place), Best Paper Award
+      time: 2017
+      where: Korean Database Conference (KDBC) 2017
+      
+    - title: Outstanding Graduate
+      time: 2017
       where: POSTECH
+      
+    - title: 2nd Prize, POSTECH Hechathon
+      time: 2014
+      where: POSTECH
+      
+    - title: Watcha Prize, POSTECH Hechathon
+      time: 2014
+      where: Watcha
       
 experiences:
     - role: Internship
