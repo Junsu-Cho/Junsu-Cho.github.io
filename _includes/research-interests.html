@@ -14,7 +14,8 @@
   {% for interest in research-interests.interests %}
   <div class="item">
     <li class="interest">{{ interest.title }}</li>
-    <div class="interest-summary">{{ interest.summary }}</div>
+    <div class="interest-application">Application: {{ interest.summary }}</div>
+    
   </div><!--//item-->
   {% endfor %}
     
