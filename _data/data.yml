@@ -56,8 +56,13 @@ career-profile:
 
 research-interests:
     title: Research Interests
-    summary: |
-      Recommender systems
+    interests:
+        - title: Recommender Systems
+          summary: |
+            good
+        - title: Deep Learning
+          summary: |
+            good good
       
 education:
 #     - degree: MSc in Computer Science
