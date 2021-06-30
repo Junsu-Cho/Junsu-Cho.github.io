@@ -72,28 +72,28 @@ publications:
       - title: Unsupervised Proxy Selection for Session-based Recommender Systems
 #         link: "#"
         authors: <b>Junsu Cho</b>, SeongKu Kang, Dongmin Hyun, Hwanjo Yu
-        conference: ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR</b>), 2021 (Acceptance rate 151/720=21.0%)
+        conference: ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR</b>), 2021
 
       - title: Learning Heterogeneous Temporal Patterns of User Preference for Timely Recommendation
 #         link: "#"
         pdf-link: https://arxiv.org/abs/2104.14200
         authors: <b>Junsu Cho</b>, Dongmin Hyun, SeongKu Kang, Hwanjo Yu
-        conference: The Web Conference (<b>WWW</b>), 2021 (Acceptance Rate 357/1736=20.6%)
+        conference: The Web Conference (<b>WWW</b>), 2021
 
       - title: Interest Sustainability-Aware Recommender Systems
 #         link: "#"
         authors: Dongmin Hyun, <b>Junsu Cho</b>, Changyoung Park, Hwanjo Yu
-        conference: IEEE International Conference on Data Mining (<b>ICDM full</b>), 2020 (Acceptance Rate 91/930=9.8%)
+        conference: IEEE International Conference on Data Mining (<b>ICDM full</b>), 2020
         
       - title: Sparse Network Inversion for Key Instance Detection in Multiple Instance
 #         link: "#"
         authors: Beomjo Shin, <b>Junsu Cho</b>, Hwanjo Yu, Seungjin Choi
-        conference: International Conference on Pattern Recognition (<b>ICPR</b>), 2020 (Acceptance Rate 1411/3250=43.4%)
+        conference: International Conference on Pattern Recognition (<b>ICPR</b>), 2020
         
       - title: Building Large-Scale English and Korean Datasets for Aspect-Level Sentiment Analysis in Automotive Domain
 #         link: "#"
         authors: Dongmin Hyun, <b>Junsu Cho</b>, Hwanjo Yu
-        conference: International Conference on Computational Linguistics (<b>COLING</b>), 2020 (Acceptance Rate 644/1956=32.9%)
+        conference: International Conference on Computational Linguistics (<b>COLING</b>), 2020
        
     journals: |
         Journals
