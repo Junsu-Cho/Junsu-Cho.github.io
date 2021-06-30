@@ -64,9 +64,9 @@ education:
 #         pretium quis, sem.
 #           - Bullet point
 #           - Bullet point
-    - degree: BS in Computer Science
+    - degree: B.S. in Computer Science and Engineering
       university: POSTECH
-      time: 2013 - 2017
+      time: Mar 2013 - Feb 2017
 #       details: |
 #         Describe your study here lorem ipsum dolor sit amet, consectetuer
 #         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -75,8 +75,11 @@ education:
 #         pretium quis, sem.
 #           - Bullet point
 #           - Bullet point
+    - degree: Ph.D. in Computer Science and Engineering
+      university: Data Intelligence Lab. advised by Prof. Hwanjo Yu, POSTECH
+      time: Feb 2017 - Present
 experiences:
-    - role: Intern
+    - role: Internship
       time: Winter 2015
       company: Sk Hynix
 #       details: |
