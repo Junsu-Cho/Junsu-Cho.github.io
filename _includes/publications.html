@@ -24,8 +24,8 @@
       <li class="publication-title">{{ publication.title }}</li>
     {% endif %}
     
-    <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-conference">{{ publication.conference }}</div>
+    <div>{{ publication.authors }}</div>
+    <div>{{ publication.conference }}</div>
     
     {% if publication.pdf-link and publication.code-link %}
       <div class="publication-link"> <a href="{{ publication.pdf-link }}"> [pdf] </a> <a href="{{ publication.code-link }}"> [code] </a> </div>
