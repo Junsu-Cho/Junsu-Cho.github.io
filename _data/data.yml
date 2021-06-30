@@ -110,7 +110,7 @@ education:
 
 publications:
     title: Publications
-    intro: |
+    conferences: |
         Conferences
 #       You can list your publications in this section. Lorem ipsum dolor sit
 #       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -141,13 +141,13 @@ publications:
         authors: Dongmin Hyun, <b>Junsu Cho</b>, Hwanjo Yu
         conference: International Conference on Computational Linguistics (<b>COLING</b>), 2020 (Acceptance Rate 644/1956=32.9%)
        
-    intro: |
+    journals: |
         Journals
     papers:
       - title: Learning to Utilize Auxiliary Reviews for Recommendation
 #         link: "#"
         authors: Dongmin Hyun, Chanyoung Park, <b>Junsu Cho</b>, Hwanjo Yu
-        conference: "<b>Information Science</b>, 2021.2 (IF: 5.524)"
+        journal: "<b>Information Science</b>, 2021.2 (IF: 5.524)"
 
 experiences:
     - role: Internship
