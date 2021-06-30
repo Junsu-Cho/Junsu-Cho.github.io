@@ -26,9 +26,9 @@
     
     {% if publication.pdf-link and publication.code-link %}
       <div class="publication-link"> <a href="{{ publication.pdf-link }}"> [pdf] </a> <a href="{{ publication.code-link }}"> [code] </a> </div>
-    {% elseif publication.pdf-link %}
+    {% else if publication.pdf-link %}
       <div class="publication-link"> <a href="{{ publication.pdf-link }}"> [pdf] </a> </div>
-    {% elseif publication.code-link %}
+    {% else if publication.code-link %}
       <div class="publication-link"> <a href="{{ publication.code-link }}"> [code] </a> </div>
     {% endif %}
     
