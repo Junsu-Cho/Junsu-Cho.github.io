@@ -71,12 +71,14 @@ publications:
     conference_papers:
       - title: Unsupervised Proxy Selection for Session-based Recommender Systems
 #         link: "#"
+        code-link: https://github.com/Junsu-Cho/ProxySR_SIGIR21
         authors: <b>Junsu Cho</b>, SeongKu Kang, Dongmin Hyun, Hwanjo Yu
         conference: ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR</b>), 2021
 
       - title: Learning Heterogeneous Temporal Patterns of User Preference for Timely Recommendation
 #         link: "#"
         pdf-link: https://arxiv.org/abs/2104.14200
+        code-link: https://github.com/Junsu-Cho/TimelyRec_WWW21
         authors: <b>Junsu Cho</b>, Dongmin Hyun, SeongKu Kang, Hwanjo Yu
         conference: The Web Conference (<b>WWW</b>), 2021
 
