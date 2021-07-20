@@ -71,7 +71,7 @@ publications:
     conference_papers:
       - title: Unsupervised Proxy Selection for Session-based Recommender Systems
 #         link: "#"
-        pdf-linf: https://arxiv.org/abs/2107.03564
+        pdf-link: https://arxiv.org/abs/2107.03564
         code-link: https://github.com/Junsu-Cho/ProxySR_SIGIR21
         authors: <b>Junsu Cho</b>, SeongKu Kang, Dongmin Hyun, Hwanjo Yu
         conference: ACM SIGIR Conference on Research and Development in Information Retrieval (<b>SIGIR</b>), 2021
