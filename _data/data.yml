@@ -69,6 +69,13 @@ publications:
         Conferences
 
     conference_papers:
+      - title: Dynamic Multi-Behavior Sequence Modeling for Next Item Recommendation
+#         link: "#"
+#         pdf-link: 
+#         code-link: 
+        authors: <b>Junsu Cho</b>, Dongmin Hyun, Dong won Lim, Hyeon jae Cheon, Hyoung iel Park, Hwanjo Yu
+        conference: AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2023
+        
       - title: Unsupervised Proxy Selection for Session-based Recommender Systems
 #         link: "#"
         pdf-link: https://arxiv.org/abs/2107.03564
@@ -88,15 +95,22 @@ publications:
         authors: Dongmin Hyun, <b>Junsu Cho</b>, Chanyoung Park, Hwanjo Yu
         conference: IEEE International Conference on Data Mining (<b>ICDM full</b>), 2020
         
+      - title: Building Large-Scale English and Korean Datasets for Aspect-Level Sentiment Analysis in Automotive Domain
+#         link: "#"
+        authors: Dongmin Hyun, <b>Junsu Cho</b>, Hwanjo Yu
+        conference: International Conference on Computational Linguistics (<b>COLING</b>), 2020
+        
       - title: Sparse Network Inversion for Key Instance Detection in Multiple Instance
 #         link: "#"
         authors: Beomjo Shin, <b>Junsu Cho</b>, Hwanjo Yu, Seungjin Choi
         conference: International Conference on Pattern Recognition (<b>ICPR</b>), 2020
         
-      - title: Building Large-Scale English and Korean Datasets for Aspect-Level Sentiment Analysis in Automotive Domain
+      - title: Beyond Learning from Next Item: Sequential Recommendation via Personalized Interest Sustainability
 #         link: "#"
-        authors: Dongmin Hyun, <b>Junsu Cho</b>, Hwanjo Yu
-        conference: International Conference on Computational Linguistics (<b>COLING</b>), 2020
+        authors: Dongmin Hyun, Chanyoung Park, <b>Junsu Cho</b>, Hwanjo Yu
+        conference: International Conference on Information & Knowledge Management (<b>CIKM</b>), 2022
+        
+      
        
     journals: |
         Journals
