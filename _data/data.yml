@@ -105,7 +105,7 @@ publications:
         authors: Beomjo Shin, <b>Junsu Cho</b>, Hwanjo Yu, Seungjin Choi
         conference: International Conference on Pattern Recognition (<b>ICPR</b>), 2020
         
-      - title: Beyond Learning from Next Item: Sequential Recommendation via Personalized Interest Sustainability
+      - title: "Beyond Learning from Next Item: Sequential Recommendation via Personalized Interest Sustainability"
 #         link: "#"
         authors: Dongmin Hyun, Chanyoung Park, <b>Junsu Cho</b>, Hwanjo Yu
         conference: International Conference on Information & Knowledge Management (<b>CIKM</b>), 2022
